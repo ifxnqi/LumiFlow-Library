@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.2",
-  "updated_at": "2026-11-23T07:08:18.402Z",
-  "download_url": "https://github.com/ifxnqi/LumiFlow-Library/releases/download/v1.0.2/library-v1.0.2.zip",
-  "sha256": "01f172066d0c4358ab6b12a02fafe9a42f9db167f30101c1e83f19ac3b1e8564",
-  "item_count": 83,
-  "size_mb": 31.004,
-  "changelog": "完整替换发现素材库，收录83张图库案例，保留对应提示词。作者：lumiflow Pro；来源：www.lumiflow.art。"
+  "latest_version": "1.0.3",
+  "updated_at": "2026-11-23T08:43:28.788Z",
+  "download_url": "https://github.com/ifxnqi/LumiFlow-Library/releases/download/v1.0.3/library-v1.0.3.zip",
+  "sha256": "cb204c8db24b09c78f6c1cb481941d34133845c62e2c00e9fe13bd28fa724e2b",
+  "item_count": 75,
+  "size_mb": 27.866,
+  "changelog": "发现素材内容清理：移除8组存在来源、署名或展示问题的案例，保留75组图片及对应提示词；清理展示文本。作者：lumiflow Pro；来源：www.lumiflow.art。完整替换旧发现素材包。"
 }
