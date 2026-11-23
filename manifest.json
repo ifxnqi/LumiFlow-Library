@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.0",
-  "updated_at": "2026-03-08T07:41:16Z",
-  "download_url": "https://github.com/ifxnqi/LumiFlow-Library/releases/download/v1.0.0/library-v1.0.0.zip",
-  "sha256": "b3f7e0c463182386bddd1fccece00de22c369ac6f7bda46d72d50caf0e36a5c9",
-  "item_count": 30,
-  "size_mb": 5.76,
-  "changelog": "首批灵感库素材"
+  "latest_version": "1.0.2",
+  "updated_at": "2026-11-23T07:08:18.402Z",
+  "download_url": "https://github.com/ifxnqi/LumiFlow-Library/releases/download/v1.0.2/library-v1.0.2.zip",
+  "sha256": "01f172066d0c4358ab6b12a02fafe9a42f9db167f30101c1e83f19ac3b1e8564",
+  "item_count": 83,
+  "size_mb": 31.004,
+  "changelog": "完整替换发现素材库，收录83张图库案例，保留对应提示词。作者：lumiflow Pro；来源：www.lumiflow.art。"
 }
